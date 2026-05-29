@@ -5,7 +5,7 @@
 RetailPulse is a comprehensive e-commerce retail sales data analysis project designed to uncover valuable business insights, identify sales trends, and support data-driven decision-making. The project focuses on analyzing sales performance, customer purchasing behavior, product performance, and regional trends using Python-based data analytics techniques.
 
 ### Objectives
-- Analyze overall sales, revenue, and profit performance.
+- Evaluated overall sales performance to uncover business trends and sales growth patterns.
 - Identify top-performing products and categories.
 - Evaluate regional sales and profitability trends.
 - Understand customer purchasing patterns and behavior.
@@ -27,7 +27,7 @@ RetailPulse is a comprehensive e-commerce retail sales data analysis project des
 ## Key Features
 
 ### Sales Performance Analysis
-- Analyzed overall sales, profit, and order volume.
+- Analyzed overall sales and order volume.
 - Identified monthly and yearly sales trends.
 - Evaluated business growth patterns and seasonality.
 
@@ -37,7 +37,7 @@ RetailPulse is a comprehensive e-commerce retail sales data analysis project des
 - Analyzed profit contribution across categories.
 
 ### Regional Performance Analysis
-- Compared sales and profits across different regions.
+- Compared sales across different regions.
 - Identified high-performing and low-performing markets.
 - Evaluated geographical business opportunities.
 
@@ -86,7 +86,6 @@ RetailPulse is a comprehensive e-commerce retail sales data analysis project des
 - Identified top-performing product categories driving revenue growth.
 - Discovered regional variations in sales and profitability.
 - Analyzed customer purchasing patterns and order behavior.
-- Highlighted products contributing the highest profit margins.
 - Generated recommendations to improve sales performance and business strategy.
 
 ---
