@@ -1,4 +1,4 @@
-# RetailPulse: Comprehensive E-Commerce Retail Sales Data Analysis
+# RetailPulse : Comprehensive E-Commerce Retail Sales Data Analysis
 
 ## Project Overview
 
